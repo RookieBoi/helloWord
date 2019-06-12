@@ -10,3 +10,4 @@ for i in [1,2,3,4]
   j = j+1
   puts (j).to_s
 end
+puts "bye world"
