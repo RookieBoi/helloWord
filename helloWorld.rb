@@ -11,3 +11,4 @@ for i in [1,2,3,4]
   puts (j).to_s
 end
 puts "bye world"
+puts 'test stable'
